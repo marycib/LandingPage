@@ -147,7 +147,7 @@ h2 {
     height: 200px;
     border: solid;
     border-radius: 10px;
-
+    overflow: hidden;
 }
 
 .sc2a {
@@ -184,18 +184,19 @@ h2 {
     font-weight: bold;
     font-family: 'Kalam', cursive;
     background: blanchedalmond;
-    
+
     display: flex;
     margin: 10px;
     padding: 10px;
     height: 100px;
     justify-content: center;
     align-items: center;
-    
-    
+
+
 
 }
-span{
+
+span {
     font-size: 2vw;
     font-weight: bold;
 
